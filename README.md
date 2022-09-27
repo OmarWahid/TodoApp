@@ -1,16 +1,5 @@
-# lap6
 
-A new Flutter project.
+![todo app 2](https://user-images.githubusercontent.com/103148256/192521695-7e9baa00-045a-493e-aa6f-aae9d1741f1f.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![todo app](https://user-images.githubusercontent.com/103148256/192521928-2e49c881-536c-4bdf-9d78-4a2e523ddb3b.png)
