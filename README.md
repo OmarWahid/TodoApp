@@ -1,3 +1,5 @@
+Application that allows the user to create daily and monthly tasks, with ability to select a date and a time.
+build by using the flutter basics widget & SQLite and bloc state management packages.
 
 ![todo app 2](https://user-images.githubusercontent.com/103148256/192521695-7e9baa00-045a-493e-aa6f-aae9d1741f1f.png)
 
